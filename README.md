@@ -9,3 +9,5 @@ Random comment added into the file.
 <!-- Random comment 2 -->
 
 <!-- another comment tag added -->
+
+<!-- added the third comment tag -->
