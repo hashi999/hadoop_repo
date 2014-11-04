@@ -1,0 +1,5 @@
+Welcome to hadoop developer program
+This will teach everyone the basics of hadoop framework
+Hadoop framework consists of two main core components
+1. HDFS - Hadoop Distributed File System.
+2. MapReduce - Programming model for processing the data.
